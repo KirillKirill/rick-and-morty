@@ -1,7 +1,7 @@
 import React from 'react';
 import { Provider } from 'react-redux';
 
-import { GlobalStyle } from 'styled';
+import { GlobalStyle } from 'style';
 import configureStore from 'store';
 import Main from 'components/Main';
 
