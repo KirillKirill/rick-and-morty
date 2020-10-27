@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import ImageBanner from 'assets/banner.svg';
 
 export const Container = styled.div`
   position: relative;
@@ -25,3 +26,7 @@ export const ImageContainer = styled.div`
   width: 378px;
   height: 376px;
 `;
+
+// export const Image = styled(ImageBanner)`
+//   fill: #f5f5f5;
+// `;
